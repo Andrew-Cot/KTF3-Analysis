@@ -1,3 +1,15 @@
+## New Theoretical Results — 5 April 2026
+
+1. ℤ₁₄ from QCD: θ_R = π/b₀ = 180°/7 = 25.714°
+   (b₀=7 from QCD β-function, independent of CMB data)
+
+2. Chern-Simons Level: k = 14 + 4·δ_CP = 14.007
+   (numerical coincidence to be formally verified)
+
+3. Topological comparison: ℤ₁₄=ℤ₂×ℤ₇ vs 3-Torus, 
+   Dodecahedron — analysis in progress
+
+---
 [README.md](https://github.com/user-attachments/files/26449258/README.md)
 # KTF³ Analysis — Klein-Flasche Topology Framework
 
